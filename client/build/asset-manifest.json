@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a07f77ca.chunk.js",
+    "main.js.map": "/static/js/main.a07f77ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7545a8a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7545a8a1.js.map",
+    "static/css/2.4cd2afa6.chunk.css": "/static/css/2.4cd2afa6.chunk.css",
+    "static/js/2.116595ab.chunk.js": "/static/js/2.116595ab.chunk.js",
+    "static/js/2.116595ab.chunk.js.map": "/static/js/2.116595ab.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4cd2afa6.chunk.css.map": "/static/css/2.4cd2afa6.chunk.css.map",
+    "static/js/2.116595ab.chunk.js.LICENSE.txt": "/static/js/2.116595ab.chunk.js.LICENSE.txt",
+    "static/media/Node.c6649cb1.png": "/static/media/Node.c6649cb1.png",
+    "static/media/bootstrap.c5dedb53.png": "/static/media/bootstrap.c5dedb53.png",
+    "static/media/fitness.f6fa00d9.png": "/static/media/fitness.f6fa00d9.png",
+    "static/media/ip.a23e4437.png": "/static/media/ip.a23e4437.png",
+    "static/media/jquer.e7a993c4.png": "/static/media/jquer.e7a993c4.png",
+    "static/media/keeper.9d13ac10.png": "/static/media/keeper.9d13ac10.png",
+    "static/media/resume.d4979afa.pdf": "/static/media/resume.d4979afa.pdf",
+    "static/media/sidhant.3cede1ce.jpeg": "/static/media/sidhant.3cede1ce.jpeg",
+    "static/media/todo.64bfa2f2.png": "/static/media/todo.64bfa2f2.png",
+    "static/media/weather.653395e8.png": "/static/media/weather.653395e8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7545a8a1.js",
+    "static/css/2.4cd2afa6.chunk.css",
+    "static/js/2.116595ab.chunk.js",
+    "static/js/main.a07f77ca.chunk.js"
+  ]
+}
