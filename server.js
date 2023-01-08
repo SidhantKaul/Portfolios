@@ -39,8 +39,12 @@ transporter.sendMail(options,function(err,info) {
   console.log("UVUYVFUYVFUYVIKV");
   console.log(req.body);
 });
-app.get("*", (req, res) => {
-    res.sendFile(path.join(__dirname, "client", "build", "index.html"));
+// app.get("*", (req, res) => {
+//     res.sendFile(path.join(__dirname, "client", "build", "index.html"));
+// });
+app.get('*', function (req, res) {
+  const index = path.join(__dirname, 'build', 'index.html');
+  res.sendFile(index);
 });
 
 if (port == null || port == "") {
