@@ -10,7 +10,7 @@ const arr = [
     name:"Track-Fit",
     tech:["React","Node.js","mongoDB","OAuth"],
     desc:["Completely built with hooks and functional components","Stores data of every user indivisually","monitor your routine for past dates"],
-    live:"https://boiling-caverns-16015.herokuapp.com/",
+    live:"https://ip-tracker-apps.onrender.com/",
     repo:"https://github.com/SidhantKaul/Fitness-Tracker"
   },
   {
@@ -18,7 +18,7 @@ const arr = [
     name:"Social media",
     tech:["React","Node.js","mongoDB"],
     desc:["Login using Google OAuth","Add friend","Comment and Like on posts","Pagination","View your own profile"],
-    live:"https://guarded-journey-24561.herokuapp.com/",
+    live:"https://socialmedia-ezud.onrender.com/",
     repo:"https://github.com/SidhantKaul/social-media"
   },
   {
@@ -42,7 +42,7 @@ const arr = [
     name:"Chats-App",
     tech:["Node.js","mongoDB","socket.io","React"],
     desc:["chat on more than one channel","live time chat","load previous chats from database"],
-    live:"https://powerful-springs-16225.herokuapp.com/",
+    live:"https://chats-app-ieiw.onrender.com/",
     repo:"https://github.com/SidhantKaul/chat-app"
   }
 ]
